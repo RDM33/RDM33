@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hi, my name is **Dmitry**
+## I'm a beginner *Front-end developer* from a small town Strunino.
 
-<!--
-**RDM33/RDM33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Languages and Technologies
+![JavaScript](https//:img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![HTML](https//:img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
+![CSS](https//:img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
 
-Here are some ideas to get you started:
+### 📌 How to reach me:
+### 📫 Mail: zenit_dimka@mail.ru / dimas.ryzhov@gmail.com 
+### ✉️ Telegram: @dm_rv
+### 📸 Instagram: @dm__ryzhov
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
